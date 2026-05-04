@@ -1,0 +1,7 @@
+mimo:
+  api_key: "YOUR_MIMO_API_KEY"
+  base_url: "https://api.mimo.xxx/v1"  # 替换为实际地址
+  model: "mimo-large"
+review:
+  max_retry: 3
+  token_limit_per_review: 50000

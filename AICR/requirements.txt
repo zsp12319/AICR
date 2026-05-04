@@ -1,0 +1,6 @@
+langgraph>=0.0.20
+openai>=1.0.0
+bandit
+pylint
+gitpython
+pyyaml
